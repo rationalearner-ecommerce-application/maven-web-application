@@ -4,8 +4,8 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
-<link href="images/mithunlogo.jpg" rel="icon">
+<title>Rationalearner- Home Page</title>
+<link href="images/pxfuel.jpg" rel="icon">
 </head>
 </head>
 <body>
@@ -13,6 +13,13 @@
 <h1 align="center">Welcome, this Hariharan from another Universe called DevOps </h1>
 <h1 align="center"> Not an Alien, a Human who physically existed in earth and mentally existed in universe </h1>
 <hr>
+
+<div style="text-align: center;">
+	<span>
+		<img src="images/pxfuel.jpg" alt="" width="500">
+	</span>
+</div>
+
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
 
@@ -30,11 +37,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <%out.print( "Client IP Address :: " + request.getRemoteAddr() ); %><br>
 <%out.print( "Client Name Host :: "+ request.getRemoteHost() );%><br></h1>
 <hr>
-<div style="text-align: center;">
-	<span>
-		<img src="images/pxfuel.jpg" alt="" width="500">
-	</span>
-</div>
+
 
 </body>
 </html>
